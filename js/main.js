@@ -1,6 +1,6 @@
-alert("Sayohatga marhamat");
+alert("Sayohatga marhamat...!!!");
 var userName = prompt("Ismingizni kiriting")
-var userMoney = Number(prompt(`"${userName} pulingiz qancha"`));
+var userMoney = Number(prompt(`"${userName} pulingiz qancha!!!"`));
 var userRoadExpenses = 500*9433.34;
 var userHotelExpenses = 250*9433.34;
 var userMuseumExpenses = 120*10354.03;
